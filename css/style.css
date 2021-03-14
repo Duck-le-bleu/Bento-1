@@ -25,11 +25,11 @@
     change the --imgcol value 
     to make the filter to your own */
 
-  /*--imgbg: url(img/wal3.jpg); 
- * --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0),
-    rgba(0, 0, 0, 0)
-  ); * Filter color *
+  /* --imgbg: url(/img/wal.jpg); */
+  --imgcol: linear-gradient(
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.7)
+  ); /* Filter color */
 }
 
 /* Dark theme  */
