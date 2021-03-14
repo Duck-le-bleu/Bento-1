@@ -26,7 +26,7 @@
     to make the filter to your own */
 
   --imgbg: url(img/wal3.jpg); 
- /* --imgcol: linear-gradient(
+ * --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(0, 0, 0, 0.7)
   ); * Filter color *
@@ -39,7 +39,7 @@
   --sbg: #201e21; /* Cards color */
   --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
-  --imgcol: linear-gradient(
+  /* --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.7),
     rgba(0, 0, 0, 0.7)
   ); /* Filter color */
@@ -59,7 +59,7 @@ body {
   width: 100vw;
   height: 100vh;
   background-color: var(--bg);
-  background-image: var(--imgcol), var(--imgbg);
+  background-image: url(img/wal3.jpg);
   display: flex;
   align-items: center;
   justify-content: center;
