@@ -23,7 +23,7 @@
     change the --imgcol value 
     to make the filter to your own */
 
-  --imgbg: url(wal5.jpg);
+  --imgbg: url(wal6.jpg);
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0),
     rgba(0, 0, 0, 0)
