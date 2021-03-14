@@ -25,10 +25,10 @@
     change the --imgcol value 
     to make the filter to your own */
 
-  --imgbg: url(img/wal3.jpg); 
+  /*--imgbg: url(img/wal3.jpg); 
  * --imgcol: linear-gradient(
-    rgba(255, 255, 255, 0.7),
-    rgba(0, 0, 0, 0.7)
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)
   ); * Filter color *
 }
 
@@ -58,8 +58,8 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-color: var(--bg);
-  background-image: var(--imgcol), url(img/wal3.jpg);
+  background-color: #cccccc;
+  background-image: url(img/wal3.jpg);
   display: flex;
   align-items: center;
   justify-content: center;
